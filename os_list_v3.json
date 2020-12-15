@@ -1,0 +1,27 @@
+{
+  "os_list" : [ 
+        {
+            "os_name":	    "DreamPi",
+            "description":  "Kazades customized Raspberry Pi Linux distro for creating a DC-PC Server",
+            "release_date": "2019-06-03",
+            "supported_models": [
+				"Pi 2",
+                "Pi 3",
+                "Pi 4"
+            ],            
+            "url":             "http://blog.kazade.co.uk/p/dreampi.html",
+            "group":           "Games",
+            "download_size":   342237688,
+            "os_info":         "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi/DreamPi.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi/root.tar.xz"
+            ],
+            "nominal_size": 1852
+        }
+  ]
+}
