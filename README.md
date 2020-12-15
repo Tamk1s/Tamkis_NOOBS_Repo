@@ -3,7 +3,7 @@ Central online image source repository for custom [NOOBS](https://www.raspberryp
  
 **Current OS images hosted by these JSON files:**
 - [DreamPi](https://sourceforge.net/projects/dreampi-noobs/)
-- [XLink Kai](about:blank)
+- [XLink Kai](https://sourceforge.net/projects/xlink-kai-noobs/upload/)
 
 **These repositories are setup as such:**
 - All assets for generation/defintition of the image (marketing slide_vga source images, JSON files defining partitions and general OS data)

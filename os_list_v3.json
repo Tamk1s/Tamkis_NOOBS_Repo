@@ -22,6 +22,29 @@
                                "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi/root.tar.xz"
             ],
             "nominal_size": 1852
+        },
+		
+		{
+            "os_name":	    "XLink Kai (NOOBS)",
+            "description":  "NOOBS compatible distro image for a wrapper around the XLink Kai Engine. XLK allows one to play system-link / LAN-enabled games online for OG XBox, Xbox 360, Xbox One, PS2, PS3, PS4, Gamecube, Switch, PSP, and Vita",
+            "release_date": "2020-12-15",
+            "supported_models": [
+                "Pi 3",
+                "Pi 4"
+            ],            
+            "url":             "https://github.com/ConnorRigby/xlink-kai",
+            "group":           "Games",
+            "download_size":   22601400,
+            "os_info":         "http://downloads.sourceforge.net/project/xlink-kai-noobs/os/XLK_Pi/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/xlink-kai-noobs/os/XLK_Pi/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/xlink-kai-noobs/os/XLK_Pi/XLK_Pi.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/xlink-kai-noobs/os/XLK_Pi/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/xlink-kai-noobs/os/XLK_Pi/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/xlink-kai-noobs/os/XLK_Pi/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/xlink-kai-noobs/os/XLK_Pi/root.tar.xz"
+            ],
+            "nominal_size": 161
         }
   ]
 }
