@@ -2,7 +2,7 @@
 	"repo_list" : [
 		{
 			"name" : "Tamkis PINN images",
-			"url"  : "https://raw.githubusercontent.com/Tamk1s/Tamkis_NOOBS_Repo/main/os_list_v3.json"
+			"url"  : "http://raw.githubusercontent.com/Tamk1s/Tamkis_NOOBS_Repo/main/os_list_v3.json"
 		}
 	]
 }
