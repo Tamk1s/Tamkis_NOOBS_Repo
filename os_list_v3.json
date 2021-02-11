@@ -2,8 +2,8 @@
   "os_list" : [ 
         {
             "os_name":	    "DreamPi",
-            "description":  "Kazades customized Raspberry Pi Linux distro for creating a DC-PC Server (Raspberry Pi 1-3, Zero)",
-            "release_date": "2019-06-03",
+            "description":  "Kazade's customized Raspberry Pi Linux distro for creating a DC-PC Server (Raspberry Pi 1-3, Zero)",
+            "release_date": "2020-12-13",
             "supported_models": [
 				"Pi 2",
                 "Pi 3",
@@ -26,8 +26,8 @@
 		
 		{
             "os_name":	    "DreamPi4",
-            "description":  "Kazades customized Raspberry Pi Linux distro for creating a DC-PC Server (Raspberry Pi 4 and newer)",
-            "release_date": "2019-06-03",
+            "description":  "Kazade's customized Raspberry Pi Linux distro for creating a DC-PC Server (Raspberry Pi 4 and newer)",
+            "release_date": "2020-12-13",
             "supported_models": [
                 "Pi 4"
             ],            
@@ -36,7 +36,7 @@
             "download_size":   773081832,
             "os_info":         "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/DreamPi.png",
+            "icon":            "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/DreamPi4.png",
             "marketing_info":  "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/marketing.tar",
             "partition_setup": "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/partition_setup.sh",
             "tarballs": [
