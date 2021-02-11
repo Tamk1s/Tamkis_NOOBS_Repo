@@ -47,8 +47,8 @@
         },
 		
 		{
-            "os_name":	    "XLink Kai (NOOBS)",
-            "description":  "NOOBS compatible distro image for a wrapper around the XLink Kai Engine. XLK allows one to play system-link / LAN-enabled games online for OG XBox, Xbox 360, Xbox One, PS2, PS3, PS4, Gamecube, Switch, PSP, and Vita",
+            "os_name":	    "XLink Kai (TESTING/NOT WORKING)",
+            "description":  "NOOBS image for a wrapper around the XLink Kai Engine. Plays system-link/LAN-enabled games online for OG XBox/360/One, PS2/3/4, Gamecube, Switch, PSP, and Vita",
             "release_date": "2020-12-15",
             "supported_models": [
                 "Pi 3",
