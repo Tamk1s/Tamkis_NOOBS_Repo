@@ -27,4 +27,4 @@ Central online image source repository for custom [NOOBS](https://www.raspberryp
   - They point to various JSOn, image, and other data assets online from the respective OS distro repository
 
 Please read the [PINN](https://github.com/procount/pinn) repository for full information on these 2 types of JSON files.
-General technical information on how to setup a NOOBS image for online server support available on the my [DreamPi NOOBS page](http://www.eaglesoftltd.com/retro/dc/dreampi-noobs)
+General technical information on how to setup a NOOBS image for online server support available on the my [DreamPi NOOBS page](https://www.eaglesoftltd.com/retro/sega-dreamcast/dreampi-noobs-image)
