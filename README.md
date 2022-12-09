@@ -6,7 +6,11 @@ Central online image source repository for custom [NOOBS](https://www.raspberryp
   - 2 variants of image
     - DreamPi for Raspberry Pi 1-3, Zero
 	- DreamPi for Raspberry Pi 4 and newer
-- [XLink Kai](https://sourceforge.net/projects/xlink-kai-noobs/upload/)
+- [XBandPi](https://sourceforge.net/projects/xbandpi-noobs/)
+  - 2 variants of image
+    - XBandPi for Raspberry Pi 1-3, Zero (based on stock DreamPi image)
+	- XBandPi for Raspberry Pi 4 and newer (based on stock DreamPi4 image)
+- [XLink Kai](https://sourceforge.net/projects/xlink-kai-noobs/) (**NOT FUNCTIONAL**)
 
 **These repositories are setup as such:**
 - All assets for generation/defintition of the image (marketing slide_vga source images, JSON files defining partitions and general OS data)
@@ -27,4 +31,4 @@ Central online image source repository for custom [NOOBS](https://www.raspberryp
   - They point to various JSOn, image, and other data assets online from the respective OS distro repository
 
 Please read the [PINN](https://github.com/procount/pinn) repository for full information on these 2 types of JSON files.
-General technical information on how to setup a NOOBS image for online server support available on the my [DreamPi NOOBS page](https://www.eaglesoftltd.com/retro/sega-dreamcast/dreampi-noobs-image)
+General technical information on how to setup a NOOBS image for online server support available on the [DreamPi NOOBS page](https://www.eaglesoftltd.com/retro/dc/dreampi-noobs)

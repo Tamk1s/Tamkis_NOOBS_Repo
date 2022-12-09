@@ -47,6 +47,31 @@
         },
 		
 		{
+			"os_name":	    	"XBandPi",
+			"description":		"Natalie's DreamPi Linux distro for connecting consoles online via XBand Modem (Sega Genesis, SNES/SFC) (Raspberry Pi 1-3, Zero)",
+			"release_date": 	"2022-12-15",			
+			"supported_models": [
+								"Pi 2",
+								"Pi 3",
+								"Pi Zero"
+			],	
+			"url": 				"https://xband.retrocomputing.network/pi.html",
+			"group":			"Games",
+			
+			"download_size":	556003616,
+            "os_info":			"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi/os.json",
+            "partitions_info":	"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi/partitions.json",
+            "icon":				"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi/XBandPi.png",
+            "marketing_info":	"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi/marketing.tar",
+            "partition_setup":	"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi/partition_setup.sh",
+            "tarballs": [
+								"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi/boot.tar.xz",
+								"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi/root.tar.xz"
+            ],
+            "nominal_size": 2674
+		},
+		
+		{
             "os_name":	    "XLink Kai (TESTING/NOT WORKING)",
             "description":  "NOOBS image for a wrapper around the XLink Kai Engine. Plays system-link/LAN-enabled games online for OG XBox/360/One, PS2/3/4, Gamecube, Switch, PSP, and Vita",
             "release_date": "2020-12-15",
