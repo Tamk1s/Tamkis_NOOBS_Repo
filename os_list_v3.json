@@ -84,7 +84,7 @@
 			"download_size":	808217548,
             "os_info":			"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi4/os.json",
             "partitions_info":	"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi4/partitions.json",
-            "icon":				"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi4/XBandPi.png",
+            "icon":				"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi4/XBandPi4.png",
             "marketing_info":	"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi4/marketing.tar",
             "partition_setup":	"http://downloads.sourceforge.net/project/xbandpi-noobs/os/XBandPi4/partition_setup.sh",
             "tarballs": [
