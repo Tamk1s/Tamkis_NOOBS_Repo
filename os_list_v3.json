@@ -33,7 +33,7 @@
             ],            
             "url":             "http://blog.kazade.co.uk/p/dreampi.html",
             "group":           "Games",
-            "download_size":   773081832,
+            "download_size":   780627716,
             "os_info":         "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/DreamPi4.png",
@@ -43,7 +43,7 @@
                                "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4/root.tar.xz"
             ],
-            "nominal_size": 3498
+            "nominal_size": 3560
         },
 		
 		{
