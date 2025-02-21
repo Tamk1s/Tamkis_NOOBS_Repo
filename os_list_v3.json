@@ -57,7 +57,7 @@
             ],
 			"url": 				"https://www.eaglesoftltd.com/retro/dc/dreampi-noobs",
             "group":           	"Games",
-			"download_size":   	309743912
+			"download_size":   	309743912,
             "os_info":         	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/os.json",
             "partitions_info": 	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/partitions.json",
 			"icon":         	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/DreamPiX.png",
