@@ -47,28 +47,27 @@
         },
 		
 		{
-            "description":  	"DreamPi DX distro for connecting consoles online via XBand Modem (Sega Genesis, SNES/SFC), Netlink (Sega Saturn), and Sega Dreamcast (RPi 1-3)",
-			"icon":         	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/DreamPiX.png",
-            "marketing_info":  	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/marketing.tar",
-            "nominal_size": 	1852,
-            "os_info":         	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/os.json",
             "os_name":	    	"DreamPiX",
-            "partition_setup": 	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/partition_setup.sh",
-            "partitions_info": 	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/partitions.json",
+            "description":  	"DreamPi DX distro for connecting consoles online via XBand Modem (Sega Genesis, SNES/SFC), Netlink (Sega Saturn), and Sega Dreamcast (RPi 1-3)",
             "release_date": 	"2025-02-21",
             "supported_models": [
 				"Pi 2",
 				"Pi 3",
 				"Pi Zero"
-            ],            
+            ],
+			"url": 				"https://www.eaglesoftltd.com/retro/dc/dreampi-noobs",
+            "group":           	"Games",
+			"download_size":   	309743912
+            "os_info":         	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/os.json",
+            "partitions_info": 	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/partitions.json",
+			"icon":         	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/DreamPiX.png",
+            "marketing_info":  	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/marketing.tar",
+            "partition_setup": 	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/partition_setup.sh",
             "tarballs": [
 								"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/boot.tar.xz",
 								"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/root.tar.xz"
             ],
-			"version": 			"1.3 DX/1.9 DLE",
-			"url": 				"https://www.eaglesoftltd.com/retro/dc/dreampi-noobs",
-            "group":           	"Games",
-            "download_size":   	309743912
+            "nominal_size": 	1852
         },
 		
 		{
