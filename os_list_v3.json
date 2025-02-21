@@ -47,30 +47,34 @@
         },
 		
 		{
-            "os_name":	    "DreamPi4X",
-            "description":  "DreamPi DX distro for connecting consoles online via XBand Modem (Sega Genesis, SNES and SFC), Netlink (Sega Saturn), and Sega Dreamcast (RPi 4+)",
-            "release_date": "2024-04-24",
+            "description":  	"DreamPi DX distro for connecting consoles online via XBand Modem (Sega Genesis, SNES/SFC), Netlink (Sega Saturn), and Sega Dreamcast (RPi 1-3)",
+			"icon":         	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/DreamPiX.png",
+            "marketing_info":  	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/marketing.tar",
+            "nominal_size": 	1852
+            "os_info":         	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/os.json",
+            "os_name":	    	"DreamPiX",
+            "partition_setup": 	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/partition_setup.sh",
+            "partitions_info": 	"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/partitions.json",
+            "release_date": 	"2025-02-21",
             "supported_models": [
-                "Pi 4"
+				"Pi 2",
+				"Pi 3",
+				"Pi Zero"
             ],            
-            "url":             "https://www.eaglesoftltd.com/retro/dc/dreampi-noobs",
-            "group":           "Games",
-            "download_size":   393842924,
-            "os_info":         "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4X/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4X/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4X/DreamPi4X.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4X/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4X/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4X/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPi4X/root.tar.xz"
+								"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/boot.tar.xz",
+								"http://downloads.sourceforge.net/project/dreampi-noobs/os/DreamPiX/root.tar.xz"
             ],
-            "nominal_size": 3498
+			
+			"version": 			"1.3 DX/1.9 DLE"
+			"url": 				"https://www.eaglesoftltd.com/retro/dc/dreampi-noobs",
+            "group":           	"Games",
+            "download_size":   	309743912,
         },
 		
 		{
-			"os_name":	    	"XBandPi",
-			"description":		"Natalie's DreamPi Linux distro for connecting consoles online via XBand Modem (Sega Genesis, SNES/SFC) (Raspberry Pi 1-3, Zero)",
+			"os_name":	    	"XBandPi (OBSOLETE)",
+			"description":		"Please use latest DreamPi DX image",
 			"release_date": 	"2023-01-02",			
 			"supported_models": [
 								"Pi 2",
@@ -94,8 +98,8 @@
 		},
 		
 		{
-			"os_name":	    	"XBandPi4",
-			"description":		"Natalie's DreamPi Linux distro for connecting consoles online via XBand Modem (Sega Genesis, SNES/SFC) (Raspberry Pi 4+)",
+			"os_name":	    	"XBandPi4 (OBSOLETE)",
+			"description":		"Please use latest DreamPi DX image",
 			"release_date": 	"2023-01-02",			
 			"supported_models": [
 								"Pi 4"
