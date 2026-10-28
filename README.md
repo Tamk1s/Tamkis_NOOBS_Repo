@@ -25,14 +25,14 @@ Central online image source repository for custom [NOOBS](https://www.raspberryp
 - [XLink Kai](https://sourceforge.net/projects/xlink-kai-noobs/) (**NOT FUNCTIONAL**)
 
 **These repositories are setup as such:**
-- All assets for generation/defintition of the image (marketing slide_vga source images, JSON files defining partitions and general OS data)
+- All assets for generation/definition of the image (marketing slide_vga source images, JSON files defining partitions and general OS data)
 - **Tarballs**
   - Marketing.tar (slide_vga images)
   - boot.tar.xz (boot partition image)
   - root.tar.xz (root partition image)
   - These tarballs are stored the respective Sourceforge repos.
      - Tarballs need server/internet raw file access, and are usually >=100MB in size
-	 - Otherwise would otherwise require pesky Git LFS/quota support on Github
+	 - Otherwise they would require pesky Git LFS/quota support on Github
 
 **This repository contains:**
 - **repo_list.json**
